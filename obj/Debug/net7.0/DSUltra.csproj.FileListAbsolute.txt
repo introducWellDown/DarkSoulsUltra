@@ -1,0 +1,15 @@
+C:\Users\IGOR\Desktop\DSultra\DSUltra\bin\Debug\net7.0\DSUltra.exe
+C:\Users\IGOR\Desktop\DSultra\DSUltra\bin\Debug\net7.0\DSUltra.deps.json
+C:\Users\IGOR\Desktop\DSultra\DSUltra\bin\Debug\net7.0\DSUltra.runtimeconfig.json
+C:\Users\IGOR\Desktop\DSultra\DSUltra\bin\Debug\net7.0\DSUltra.dll
+C:\Users\IGOR\Desktop\DSultra\DSUltra\bin\Debug\net7.0\DSUltra.pdb
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\DSUltra.csproj.AssemblyReference.cache
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\DSUltra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\DSUltra.AssemblyInfoInputs.cache
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\DSUltra.AssemblyInfo.cs
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\DSUltra.csproj.CoreCompileInputs.cache
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\DSUltra.dll
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\refint\DSUltra.dll
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\DSUltra.pdb
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\DSUltra.genruntimeconfig.cache
+C:\Users\IGOR\Desktop\DSultra\DSUltra\obj\Debug\net7.0\ref\DSUltra.dll
